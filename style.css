@@ -61,7 +61,7 @@ nav>ul {
 }
 
 .banner-img {
-    padding-left: 180px;
+    padding-left: 190px;
     padding-top: 50px;
     padding-bottom: 50px;
     width: 100%;
@@ -128,12 +128,20 @@ span {
     font-size: 3em;
     font-weight: 600;
     padding-bottom: 25px;
+    border-left: 5px solid rgb(63, 119, 224);
+    padding-left: 15px;
 }
 
 .features-title {
     padding-bottom: 10px;
     font-size: 1.3em;
     font-weight: 600;
+}
+.features-main-para {
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-top:15px ;
+    padding-bottom: 25px;
 }
 
 .features-para {
